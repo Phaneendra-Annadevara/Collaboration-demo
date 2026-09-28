@@ -20,6 +20,6 @@ form{
 form input{
     padding: 30px;
     border-radius: 20px;
-    border: 2px solid blue;
+    border: 2px solid rgb(88, 88, 135);
     text-align: center;
 }

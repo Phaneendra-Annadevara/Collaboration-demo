@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(184, 223, 252);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+
+  
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 200px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background-color: transparent;
+}
+form input{
+    padding: 30px;
+    border-radius: 20px;
+    border: 2px solid blue;
+    text-align: center;
+}
